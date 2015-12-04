@@ -1,0 +1,14 @@
+ Directory di D:\PROJECTS\GITHUB\fresh-project
+
+File non trovato
+
+D:\PROJECTS\GITHUB\fresh-project>git status
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+D:\PROJECTS\GITHUB\fresh-project>notepad hipster.txt
+
+D:\PROJECTS\GITHUB\fresh-project>
